@@ -39,7 +39,7 @@ app.post('/api/v1/books', (req, res) => {
 });
 
 app.get('/api/v1/coliving', (req, res) => {
-  response.send('Warming up friend.');
+  res.send('Warming up friend.');
 });
 
 app.listen(PORT, () => console.log('Example app is listening!'));
