@@ -47,7 +47,7 @@ app.get('/api/v1/coliving', (req, res) => {
       {
         "id": 420,
         "title": "coliving QWERP",
-        "description": "apartamento equipado, cuenta con 2 habitaciones, cocina integral",
+        "description": "Apartamento equipado, cuenta con 2 habitaciones, cocina integral",
         "release_date": "2019-07-19",
         "image":  "https://www.jll.es/images/research/teaser/jll-european-coliving-index-2019-teaser.jpg",
         "location": "Bogotá",
@@ -62,7 +62,7 @@ app.get('/api/v1/coliving', (req, res) => {
       {
         "id": 421,
         "title": "coliving GGHH",
-        "description": "apartamento equipado, cuenta con 1 habitaciones, cocina integral, zonas compartidas",
+        "description": "Apartamento equipado, cuenta con 1 habitaciones, cocina integral, zonas compartidas",
         "release_date": "2019-08-09",
         "image":  "https://s3.amazonaws.com/mercado-ideas/wp-content/uploads/sites/8/2019/08/19164450/coliving.jpg",
         "location": "Bogotá",
@@ -77,7 +77,7 @@ app.get('/api/v1/coliving', (req, res) => {
       {
         "id": 422,
         "title": "coliving LONA",
-        "description": "apartamento equipado, cuenta con 3 habitaciones, sala de estar, dos baños",
+        "description": "Apartamento equipado, cuenta con 3 habitaciones, sala de estar, dos baños",
         "release_date": "2019-03-10",
         "image":  "https://sc2.elpais.com.uy/files/article_default_content/uploads/2019/12/05/5de903a299b6f.jpeg",
         "location": "Bogotá",
@@ -92,7 +92,7 @@ app.get('/api/v1/coliving', (req, res) => {
       {
         "id": 423,
         "title": "coliving PESD",
-        "description": "hermoso partamento equipado, cuenta con 2 habitaciones, sala de estar, varias zonas comunes ",
+        "description": "Hermoso partamento equipado, cuenta con 2 habitaciones, sala de estar, varias zonas comunes ",
         "release_date": "2020-02-15",
         "image":  "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/3-1088x726.jpg",
         "location": "Bogotá",
@@ -107,7 +107,7 @@ app.get('/api/v1/coliving', (req, res) => {
       {
         "id": 424,
         "title": "coliving HEREI",
-        "description": "cómodo apartamento, cuenta con 2 habitaciones, sala comedor y zonas comunes",
+        "description": "Cómodo apartamento, cuenta con 2 habitaciones, sala comedor y zonas comunes",
         "release_date": "2020-01-19",
         "image":  "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/apartamento-coliving-paris6-1587036437.jpg?resize=480:*",
         "location": "Bogotá",
@@ -122,7 +122,7 @@ app.get('/api/v1/coliving', (req, res) => {
       {
         "id": 425,
         "title": "coliving JUNIE",
-        "description": "amplio apartamento, cuenta con 1 habitaciones, cocina integral, sala de estar y amplias zonas comunes",
+        "description": "Amplio apartamento, cuenta con 1 habitaciones, cocina integral, sala de estar y amplias zonas comunes",
         "release_date": "2019-09-25",
         "image":  "https://s3-eu-west-1.amazonaws.com/housfy/prod/blog/images/2019/11/25134332/shridhar-gupta-dZxQn4VEv2M-unsplash-1024x683.jpg",
         "location": "Bogotá",
