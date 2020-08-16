@@ -138,4 +138,35 @@ app.get('/api/v1/coliving', (req, res) => {
   });
 });
 
+app.get('/api/v1/topics', (req, res) => {
+  res.send({
+    "page": 1,
+    "total_results": 157,
+    "total_pages": 942,
+    "results": [
+      {
+        "id": 1,
+        "name": "Animales"
+      },
+      {
+        "id": 2,
+        "name": "Numeros"
+      },
+      {
+        "id": 3,
+        "name": "Frutas"
+      },
+      {
+        "id": 4,
+        "name": "Ciudades"
+      },
+      {
+        "id": 5,
+        "name": "Random"
+      },
+      
+    ]
+  });
+});
+
 app.listen(PORT, () => console.log('Example app is listening!'));
